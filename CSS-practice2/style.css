@@ -1,0 +1,51 @@
+.border{
+    border: 5px solid darkorchid;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 10px 10px 20px rgba(130, 98, 146, 0.747);
+}
+h3{
+    text-decoration: underline;
+}
+#external{
+    background-color: cadetblue;
+    text-align: center;
+}
+ol{
+   color: darkred;
+}
+ul{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#python{
+    color: rgb(255, 3, 3);
+}
+span{
+    color: blue;
+    border: 2px solid black;
+}
+.c{
+    color: green;
+    font-size: xx-large;
+}
+*{
+    /* background-color:darkgrey; */
+}
+img{
+    width: 500px;
+    
+}
+.header{
+    height: 200px;
+    text-align: center;
+    color: white;
+  
+    background-color: bisque;
+    background-image: url("Screenshot\ 2023-07-04\ 113351.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
